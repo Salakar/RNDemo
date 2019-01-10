@@ -4064,9 +4064,9 @@ react-native-tab-view@^1.0.0, react-native-tab-view@^1.2.0:
   dependencies:
     prop-types "^15.6.1"
 
-react-native-webview@2.14.3:
-  version "2.14.3"
-  resolved "http://registry.npm.taobao.org/react-native-webview/download/react-native-webview-2.14.3.tgz#25ed93d4b12659fb330dd21b6d8802b86628f079"
+"react-native-webview@git+https://github.com/react-native-firebase/react-native-webview.git":
+  version "3.0.0"
+  resolved "git+https://github.com/react-native-firebase/react-native-webview.git#8313c0f1e11f708e976bf10e76b90a6a27bc0cde"
   dependencies:
     escape-string-regexp "^1.0.5"
     fbjs "^0.8.17"
